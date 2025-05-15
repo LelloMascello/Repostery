@@ -1,0 +1,2 @@
+INSERT INTO [QueriesDb].[dbo].Queries (Id_Queries, Name, Description, StoredProcedure, UserMandatory, [Order], Active, InternalQuery, GroupField, IsExternalSupplierVisible, IsCustomReport, IsClientSidePivotQuery, UseExternalApi) VALUES (1048, 'Consuntivo fornitore dettaglio6', 'Consuntivo fornitore manutenzione correttiva a guasto ', 'SPS_ReportDynamic_TicketsSupplierBalanceDetail', 'True', 'trtt', 'True', 'True', 'Plant,Ticket', 'True', 'False', 'False', 'False')
+
