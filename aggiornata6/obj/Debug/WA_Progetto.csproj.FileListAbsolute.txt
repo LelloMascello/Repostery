@@ -1,0 +1,240 @@
+C:\Users\leopo\Desktop\WA_Progetto\bin\Debug\WA_Progetto.exe.config
+C:\Users\leopo\Desktop\WA_Progetto\bin\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\WA_Progetto\bin\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\WA_Progetto\obj\Debug\WA_Progetto.csproj.AssemblyReference.cache
+C:\Users\leopo\Desktop\WA_Progetto\obj\Debug\WA_Progetto.Form1.resources
+C:\Users\leopo\Desktop\WA_Progetto\obj\Debug\WA_Progetto.Properties.Resources.resources
+C:\Users\leopo\Desktop\WA_Progetto\obj\Debug\WA_Progetto.csproj.GenerateResource.cache
+C:\Users\leopo\Desktop\WA_Progetto\obj\Debug\WA_Progetto.csproj.CoreCompileInputs.cache
+C:\Users\leopo\Desktop\WA_Progetto\obj\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\WA_Progetto\obj\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\WA_Progetto\bin\Debug\WA_Progetto.exe.config
+C:\Users\leopo\Desktop\Stage\WA_Progetto\bin\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\WA_Progetto\bin\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\WA_Progetto\obj\Debug\WA_Progetto.csproj.AssemblyReference.cache
+C:\Users\leopo\Desktop\Stage\WA_Progetto\obj\Debug\WA_Progetto.Form1.resources
+C:\Users\leopo\Desktop\Stage\WA_Progetto\obj\Debug\WA_Progetto.Properties.Resources.resources
+C:\Users\leopo\Desktop\Stage\WA_Progetto\obj\Debug\WA_Progetto.csproj.GenerateResource.cache
+C:\Users\leopo\Desktop\Stage\WA_Progetto\obj\Debug\WA_Progetto.csproj.CoreCompileInputs.cache
+C:\Users\leopo\Desktop\Stage\WA_Progetto\obj\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\WA_Progetto\obj\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\WA_Progetto - Copia (3)\bin\Debug\WA_Progetto.exe.config
+C:\Users\leopo\Desktop\Stage\WA_Progetto - Copia (3)\bin\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\WA_Progetto - Copia (3)\bin\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\WA_Progetto - Copia (3)\obj\Debug\WA_Progetto.csproj.AssemblyReference.cache
+C:\Users\leopo\Desktop\Stage\WA_Progetto - Copia (3)\obj\Debug\WA_Progetto.Form1.resources
+C:\Users\leopo\Desktop\Stage\WA_Progetto - Copia (3)\obj\Debug\WA_Progetto.Properties.Resources.resources
+C:\Users\leopo\Desktop\Stage\WA_Progetto - Copia (3)\obj\Debug\WA_Progetto.csproj.GenerateResource.cache
+C:\Users\leopo\Desktop\Stage\WA_Progetto - Copia (3)\obj\Debug\WA_Progetto.csproj.CoreCompileInputs.cache
+C:\Users\leopo\Desktop\Stage\WA_Progetto - Copia (3)\obj\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\WA_Progetto - Copia (3)\obj\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\WA_Progetto - Copia (3) - Copia\bin\Debug\WA_Progetto.exe.config
+C:\Users\leopo\Desktop\Stage\WA_Progetto - Copia (3) - Copia\bin\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\WA_Progetto - Copia (3) - Copia\bin\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\WA_Progetto - Copia (3) - Copia\obj\Debug\WA_Progetto.csproj.AssemblyReference.cache
+C:\Users\leopo\Desktop\Stage\WA_Progetto - Copia (3) - Copia\obj\Debug\WA_Progetto.Form1.resources
+C:\Users\leopo\Desktop\Stage\WA_Progetto - Copia (3) - Copia\obj\Debug\WA_Progetto.Properties.Resources.resources
+C:\Users\leopo\Desktop\Stage\WA_Progetto - Copia (3) - Copia\obj\Debug\WA_Progetto.csproj.GenerateResource.cache
+C:\Users\leopo\Desktop\Stage\WA_Progetto - Copia (3) - Copia\obj\Debug\WA_Progetto.csproj.CoreCompileInputs.cache
+C:\Users\leopo\Desktop\Stage\WA_Progetto - Copia (3) - Copia\obj\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\WA_Progetto - Copia (3) - Copia\obj\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\WA_Progetto - Copia (3) - Copia - Copia\bin\Debug\WA_Progetto.exe.config
+C:\Users\leopo\Desktop\Stage\WA_Progetto - Copia (3) - Copia - Copia\bin\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\WA_Progetto - Copia (3) - Copia - Copia\bin\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\WA_Progetto - Copia (3) - Copia - Copia\obj\Debug\WA_Progetto.csproj.AssemblyReference.cache
+C:\Users\leopo\Desktop\Stage\WA_Progetto - Copia (3) - Copia - Copia\obj\Debug\WA_Progetto.Form1.resources
+C:\Users\leopo\Desktop\Stage\WA_Progetto - Copia (3) - Copia - Copia\obj\Debug\WA_Progetto.Properties.Resources.resources
+C:\Users\leopo\Desktop\Stage\WA_Progetto - Copia (3) - Copia - Copia\obj\Debug\WA_Progetto.csproj.GenerateResource.cache
+C:\Users\leopo\Desktop\Stage\WA_Progetto - Copia (3) - Copia - Copia\obj\Debug\WA_Progetto.csproj.CoreCompileInputs.cache
+C:\Users\leopo\Desktop\Stage\WA_Progetto - Copia (3) - Copia - Copia\obj\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\WA_Progetto - Copia (3) - Copia - Copia\obj\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\Corretta\bin\Debug\WA_Progetto.exe.config
+C:\Users\leopo\Desktop\Stage\Corretta\bin\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\Corretta\bin\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\Corretta\obj\Debug\WA_Progetto.csproj.AssemblyReference.cache
+C:\Users\leopo\Desktop\Stage\Corretta\obj\Debug\WA_Progetto.Form1.resources
+C:\Users\leopo\Desktop\Stage\Corretta\obj\Debug\WA_Progetto.Properties.Resources.resources
+C:\Users\leopo\Desktop\Stage\Corretta\obj\Debug\WA_Progetto.csproj.GenerateResource.cache
+C:\Users\leopo\Desktop\Stage\Corretta\obj\Debug\WA_Progetto.csproj.CoreCompileInputs.cache
+C:\Users\leopo\Desktop\Stage\Corretta\obj\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\Corretta\obj\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\Corretta - Copia (2)\bin\Debug\WA_Progetto.exe.config
+C:\Users\leopo\Desktop\Stage\Corretta - Copia (2)\bin\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\Corretta - Copia (2)\bin\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\Corretta - Copia (2)\obj\Debug\WA_Progetto.csproj.AssemblyReference.cache
+C:\Users\leopo\Desktop\Stage\Corretta - Copia (2)\obj\Debug\WA_Progetto.Form1.resources
+C:\Users\leopo\Desktop\Stage\Corretta - Copia (2)\obj\Debug\WA_Progetto.Properties.Resources.resources
+C:\Users\leopo\Desktop\Stage\Corretta - Copia (2)\obj\Debug\WA_Progetto.csproj.GenerateResource.cache
+C:\Users\leopo\Desktop\Stage\Corretta - Copia (2)\obj\Debug\WA_Progetto.csproj.CoreCompileInputs.cache
+C:\Users\leopo\Desktop\Stage\Corretta - Copia (2)\obj\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\Corretta - Copia (2)\obj\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\Corretta - Coretta\bin\Debug\WA_Progetto.exe.config
+C:\Users\leopo\Desktop\Stage\Corretta - Coretta\bin\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\Corretta - Coretta\bin\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\Corretta - Coretta\obj\Debug\WA_Progetto.csproj.AssemblyReference.cache
+C:\Users\leopo\Desktop\Stage\Corretta - Coretta\obj\Debug\WA_Progetto.Form1.resources
+C:\Users\leopo\Desktop\Stage\Corretta - Coretta\obj\Debug\WA_Progetto.Properties.Resources.resources
+C:\Users\leopo\Desktop\Stage\Corretta - Coretta\obj\Debug\WA_Progetto.csproj.GenerateResource.cache
+C:\Users\leopo\Desktop\Stage\Corretta - Coretta\obj\Debug\WA_Progetto.csproj.CoreCompileInputs.cache
+C:\Users\leopo\Desktop\Stage\Corretta - Coretta\obj\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\Corretta - Coretta\obj\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\Corretta - Coretta - Copia - Copia\bin\Debug\WA_Progetto.exe.config
+C:\Users\leopo\Desktop\Stage\Corretta - Coretta - Copia - Copia\bin\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\Corretta - Coretta - Copia - Copia\bin\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\Corretta - Coretta - Copia - Copia\obj\Debug\WA_Progetto.csproj.AssemblyReference.cache
+C:\Users\leopo\Desktop\Stage\Corretta - Coretta - Copia - Copia\obj\Debug\WA_Progetto.Form1.resources
+C:\Users\leopo\Desktop\Stage\Corretta - Coretta - Copia - Copia\obj\Debug\WA_Progetto.Properties.Resources.resources
+C:\Users\leopo\Desktop\Stage\Corretta - Coretta - Copia - Copia\obj\Debug\WA_Progetto.csproj.GenerateResource.cache
+C:\Users\leopo\Desktop\Stage\Corretta - Coretta - Copia - Copia\obj\Debug\WA_Progetto.csproj.CoreCompileInputs.cache
+C:\Users\leopo\Desktop\Stage\Corretta - Coretta - Copia - Copia\obj\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\Corretta - Coretta - Copia - Copia\obj\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\Corretta - Coretta - Copia - Copia - Copia\bin\Debug\WA_Progetto.exe.config
+C:\Users\leopo\Desktop\Stage\Corretta - Coretta - Copia - Copia - Copia\bin\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\Corretta - Coretta - Copia - Copia - Copia\bin\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\Corretta - Coretta - Copia - Copia - Copia\obj\Debug\WA_Progetto.csproj.AssemblyReference.cache
+C:\Users\leopo\Desktop\Stage\Corretta - Coretta - Copia - Copia - Copia\obj\Debug\WA_Progetto.Form1.resources
+C:\Users\leopo\Desktop\Stage\Corretta - Coretta - Copia - Copia - Copia\obj\Debug\WA_Progetto.Properties.Resources.resources
+C:\Users\leopo\Desktop\Stage\Corretta - Coretta - Copia - Copia - Copia\obj\Debug\WA_Progetto.csproj.GenerateResource.cache
+C:\Users\leopo\Desktop\Stage\Corretta - Coretta - Copia - Copia - Copia\obj\Debug\WA_Progetto.csproj.CoreCompileInputs.cache
+C:\Users\leopo\Desktop\Stage\Corretta - Coretta - Copia - Copia - Copia\obj\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\Corretta - Coretta - Copia - Copia - Copia\obj\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\newtry\bin\Debug\WA_Progetto.exe.config
+C:\Users\leopo\Desktop\Stage\newtry\bin\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\newtry\bin\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\newtry\obj\Debug\WA_Progetto.csproj.AssemblyReference.cache
+C:\Users\leopo\Desktop\Stage\newtry\obj\Debug\WA_Progetto.Form1.resources
+C:\Users\leopo\Desktop\Stage\newtry\obj\Debug\WA_Progetto.Properties.Resources.resources
+C:\Users\leopo\Desktop\Stage\newtry\obj\Debug\WA_Progetto.csproj.GenerateResource.cache
+C:\Users\leopo\Desktop\Stage\newtry\obj\Debug\WA_Progetto.csproj.CoreCompileInputs.cache
+C:\Users\leopo\Desktop\Stage\newtry\obj\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\newtry\obj\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\newtry - Copia\bin\Debug\WA_Progetto.exe.config
+C:\Users\leopo\Desktop\Stage\newtry - Copia\bin\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\newtry - Copia\bin\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\newtry - Copia\obj\Debug\WA_Progetto.csproj.AssemblyReference.cache
+C:\Users\leopo\Desktop\Stage\newtry - Copia\obj\Debug\WA_Progetto.Form1.resources
+C:\Users\leopo\Desktop\Stage\newtry - Copia\obj\Debug\WA_Progetto.Properties.Resources.resources
+C:\Users\leopo\Desktop\Stage\newtry - Copia\obj\Debug\WA_Progetto.csproj.GenerateResource.cache
+C:\Users\leopo\Desktop\Stage\newtry - Copia\obj\Debug\WA_Progetto.csproj.CoreCompileInputs.cache
+C:\Users\leopo\Desktop\Stage\newtry - Copia\obj\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\newtry - Copia\obj\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\newtry - Copia - Copia\bin\Debug\WA_Progetto.exe.config
+C:\Users\leopo\Desktop\Stage\newtry - Copia - Copia\bin\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\newtry - Copia - Copia\bin\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\newtry - Copia - Copia\obj\Debug\WA_Progetto.csproj.AssemblyReference.cache
+C:\Users\leopo\Desktop\Stage\newtry - Copia - Copia\obj\Debug\WA_Progetto.Form1.resources
+C:\Users\leopo\Desktop\Stage\newtry - Copia - Copia\obj\Debug\WA_Progetto.Properties.Resources.resources
+C:\Users\leopo\Desktop\Stage\newtry - Copia - Copia\obj\Debug\WA_Progetto.csproj.GenerateResource.cache
+C:\Users\leopo\Desktop\Stage\newtry - Copia - Copia\obj\Debug\WA_Progetto.csproj.CoreCompileInputs.cache
+C:\Users\leopo\Desktop\Stage\newtry - Copia - Copia\obj\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\newtry - Copia - Copia\obj\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\aggiornata\bin\Debug\WA_Progetto.exe.config
+C:\Users\leopo\Desktop\Stage\aggiornata\bin\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\aggiornata\bin\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\aggiornata\obj\Debug\WA_Progetto.csproj.AssemblyReference.cache
+C:\Users\leopo\Desktop\Stage\aggiornata\obj\Debug\WA_Progetto.Form1.resources
+C:\Users\leopo\Desktop\Stage\aggiornata\obj\Debug\WA_Progetto.Properties.Resources.resources
+C:\Users\leopo\Desktop\Stage\aggiornata\obj\Debug\WA_Progetto.csproj.GenerateResource.cache
+C:\Users\leopo\Desktop\Stage\aggiornata\obj\Debug\WA_Progetto.csproj.CoreCompileInputs.cache
+C:\Users\leopo\Desktop\Stage\aggiornata\obj\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\aggiornata\obj\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\aggiornata - Copia\bin\Debug\WA_Progetto.exe.config
+C:\Users\leopo\Desktop\Stage\aggiornata - Copia\bin\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\aggiornata - Copia\bin\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\aggiornata - Copia\obj\Debug\WA_Progetto.csproj.AssemblyReference.cache
+C:\Users\leopo\Desktop\Stage\aggiornata - Copia\obj\Debug\WA_Progetto.Form1.resources
+C:\Users\leopo\Desktop\Stage\aggiornata - Copia\obj\Debug\WA_Progetto.Properties.Resources.resources
+C:\Users\leopo\Desktop\Stage\aggiornata - Copia\obj\Debug\WA_Progetto.csproj.GenerateResource.cache
+C:\Users\leopo\Desktop\Stage\aggiornata - Copia\obj\Debug\WA_Progetto.csproj.CoreCompileInputs.cache
+C:\Users\leopo\Desktop\Stage\aggiornata - Copia\obj\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\aggiornata - Copia\obj\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\verificare\bin\Debug\WA_Progetto.exe.config
+C:\Users\leopo\Desktop\Stage\verificare\bin\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\verificare\bin\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\verificare\obj\Debug\WA_Progetto.csproj.AssemblyReference.cache
+C:\Users\leopo\Desktop\Stage\verificare\obj\Debug\WA_Progetto.Form1.resources
+C:\Users\leopo\Desktop\Stage\verificare\obj\Debug\WA_Progetto.Properties.Resources.resources
+C:\Users\leopo\Desktop\Stage\verificare\obj\Debug\WA_Progetto.csproj.GenerateResource.cache
+C:\Users\leopo\Desktop\Stage\verificare\obj\Debug\WA_Progetto.csproj.CoreCompileInputs.cache
+C:\Users\leopo\Desktop\Stage\verificare\obj\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\verificare\obj\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\aggiornata2\bin\Debug\WA_Progetto.exe.config
+C:\Users\leopo\Desktop\Stage\aggiornata2\bin\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\aggiornata2\bin\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\aggiornata2\obj\Debug\WA_Progetto.csproj.AssemblyReference.cache
+C:\Users\leopo\Desktop\Stage\aggiornata2\obj\Debug\WA_Progetto.Form1.resources
+C:\Users\leopo\Desktop\Stage\aggiornata2\obj\Debug\WA_Progetto.Properties.Resources.resources
+C:\Users\leopo\Desktop\Stage\aggiornata2\obj\Debug\WA_Progetto.csproj.GenerateResource.cache
+C:\Users\leopo\Desktop\Stage\aggiornata2\obj\Debug\WA_Progetto.csproj.CoreCompileInputs.cache
+C:\Users\leopo\Desktop\Stage\aggiornata2\obj\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\aggiornata2\obj\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\aggiornata2 - Copia (2)\bin\Debug\WA_Progetto.exe.config
+C:\Users\leopo\Desktop\Stage\aggiornata2 - Copia (2)\bin\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\aggiornata2 - Copia (2)\bin\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\aggiornata2 - Copia (2)\obj\Debug\WA_Progetto.csproj.AssemblyReference.cache
+C:\Users\leopo\Desktop\Stage\aggiornata2 - Copia (2)\obj\Debug\WA_Progetto.Form1.resources
+C:\Users\leopo\Desktop\Stage\aggiornata2 - Copia (2)\obj\Debug\WA_Progetto.Properties.Resources.resources
+C:\Users\leopo\Desktop\Stage\aggiornata2 - Copia (2)\obj\Debug\WA_Progetto.csproj.GenerateResource.cache
+C:\Users\leopo\Desktop\Stage\aggiornata2 - Copia (2)\obj\Debug\WA_Progetto.csproj.CoreCompileInputs.cache
+C:\Users\leopo\Desktop\Stage\aggiornata2 - Copia (2)\obj\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\aggiornata2 - Copia (2)\obj\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\aggiornata3\bin\Debug\WA_Progetto.exe.config
+C:\Users\leopo\Desktop\Stage\aggiornata3\bin\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\aggiornata3\bin\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\aggiornata3\obj\Debug\WA_Progetto.csproj.AssemblyReference.cache
+C:\Users\leopo\Desktop\Stage\aggiornata3\obj\Debug\WA_Progetto.Form1.resources
+C:\Users\leopo\Desktop\Stage\aggiornata3\obj\Debug\WA_Progetto.Properties.Resources.resources
+C:\Users\leopo\Desktop\Stage\aggiornata3\obj\Debug\WA_Progetto.csproj.GenerateResource.cache
+C:\Users\leopo\Desktop\Stage\aggiornata3\obj\Debug\WA_Progetto.csproj.CoreCompileInputs.cache
+C:\Users\leopo\Desktop\Stage\aggiornata3\obj\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\aggiornata3\obj\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\Base_per_versione_con_query\bin\Debug\WA_Progetto.exe.config
+C:\Users\leopo\Desktop\Stage\Base_per_versione_con_query\bin\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\Base_per_versione_con_query\bin\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\Base_per_versione_con_query\obj\Debug\WA_Progetto.csproj.AssemblyReference.cache
+C:\Users\leopo\Desktop\Stage\Base_per_versione_con_query\obj\Debug\WA_Progetto.Form1.resources
+C:\Users\leopo\Desktop\Stage\Base_per_versione_con_query\obj\Debug\WA_Progetto.Properties.Resources.resources
+C:\Users\leopo\Desktop\Stage\Base_per_versione_con_query\obj\Debug\WA_Progetto.csproj.GenerateResource.cache
+C:\Users\leopo\Desktop\Stage\Base_per_versione_con_query\obj\Debug\WA_Progetto.csproj.CoreCompileInputs.cache
+C:\Users\leopo\Desktop\Stage\Base_per_versione_con_query\obj\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\Base_per_versione_con_query\obj\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\Base_per_versione_con_query - Copia\bin\Debug\WA_Progetto.exe.config
+C:\Users\leopo\Desktop\Stage\Base_per_versione_con_query - Copia\bin\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\Base_per_versione_con_query - Copia\bin\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\Base_per_versione_con_query - Copia\obj\Debug\WA_Progetto.csproj.AssemblyReference.cache
+C:\Users\leopo\Desktop\Stage\Base_per_versione_con_query - Copia\obj\Debug\WA_Progetto.Form1.resources
+C:\Users\leopo\Desktop\Stage\Base_per_versione_con_query - Copia\obj\Debug\WA_Progetto.Properties.Resources.resources
+C:\Users\leopo\Desktop\Stage\Base_per_versione_con_query - Copia\obj\Debug\WA_Progetto.csproj.GenerateResource.cache
+C:\Users\leopo\Desktop\Stage\Base_per_versione_con_query - Copia\obj\Debug\WA_Progetto.csproj.CoreCompileInputs.cache
+C:\Users\leopo\Desktop\Stage\Base_per_versione_con_query - Copia\obj\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\Base_per_versione_con_query - Copia\obj\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\Base\bin\Debug\WA_Progetto.exe.config
+C:\Users\leopo\Desktop\Stage\Base\bin\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\Base\bin\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\Base\obj\Debug\WA_Progetto.csproj.AssemblyReference.cache
+C:\Users\leopo\Desktop\Stage\Base\obj\Debug\WA_Progetto.Form1.resources
+C:\Users\leopo\Desktop\Stage\Base\obj\Debug\WA_Progetto.Properties.Resources.resources
+C:\Users\leopo\Desktop\Stage\Base\obj\Debug\WA_Progetto.csproj.GenerateResource.cache
+C:\Users\leopo\Desktop\Stage\Base\obj\Debug\WA_Progetto.csproj.CoreCompileInputs.cache
+C:\Users\leopo\Desktop\Stage\Base\obj\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\Base\obj\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\Base - Copia\bin\Debug\WA_Progetto.exe.config
+C:\Users\leopo\Desktop\Stage\Base - Copia\bin\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\Base - Copia\bin\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\Base - Copia\obj\Debug\WA_Progetto.csproj.AssemblyReference.cache
+C:\Users\leopo\Desktop\Stage\Base - Copia\obj\Debug\WA_Progetto.Form1.resources
+C:\Users\leopo\Desktop\Stage\Base - Copia\obj\Debug\WA_Progetto.Properties.Resources.resources
+C:\Users\leopo\Desktop\Stage\Base - Copia\obj\Debug\WA_Progetto.csproj.GenerateResource.cache
+C:\Users\leopo\Desktop\Stage\Base - Copia\obj\Debug\WA_Progetto.csproj.CoreCompileInputs.cache
+C:\Users\leopo\Desktop\Stage\Base - Copia\obj\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\Base - Copia\obj\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\aggiornata5 - Copia\bin\Debug\WA_Progetto.exe.config
+C:\Users\leopo\Desktop\Stage\aggiornata5 - Copia\bin\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\aggiornata5 - Copia\bin\Debug\WA_Progetto.pdb
+C:\Users\leopo\Desktop\Stage\aggiornata5 - Copia\obj\Debug\WA_Progetto.csproj.AssemblyReference.cache
+C:\Users\leopo\Desktop\Stage\aggiornata5 - Copia\obj\Debug\WA_Progetto.Form1.resources
+C:\Users\leopo\Desktop\Stage\aggiornata5 - Copia\obj\Debug\WA_Progetto.Properties.Resources.resources
+C:\Users\leopo\Desktop\Stage\aggiornata5 - Copia\obj\Debug\WA_Progetto.csproj.GenerateResource.cache
+C:\Users\leopo\Desktop\Stage\aggiornata5 - Copia\obj\Debug\WA_Progetto.csproj.CoreCompileInputs.cache
+C:\Users\leopo\Desktop\Stage\aggiornata5 - Copia\obj\Debug\WA_Progetto.exe
+C:\Users\leopo\Desktop\Stage\aggiornata5 - Copia\obj\Debug\WA_Progetto.pdb
